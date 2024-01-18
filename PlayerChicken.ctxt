@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PlayerChicken
+comment1.params=chosenChicken
+comment1.target=PlayerChicken(greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=void\ checkForAttack()
+comment5.params=
+comment5.target=void\ attack()
+comment6.params=points
+comment6.target=void\ addScore(int)
+comment7.params=
+comment7.target=void\ displayStatus()
+comment8.params=
+comment8.target=void\ playShootSound()
+numComments=9

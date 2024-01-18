@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemyChicken
+comment1.params=
+comment1.target=void\ act()
+comment2.params=damage
+comment2.target=void\ takeDamage(int)
+comment3.params=
+comment3.target=boolean\ isDead()
+comment4.params=
+comment4.target=void\ moveRandomly()
+comment5.params=
+comment5.target=void\ checkForWin()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ChickenWorld2
+comment1.params=chosenChicken
+comment1.target=ChickenWorld2(greenfoot.Actor)
+comment2.params=chosenChicken
+comment2.target=void\ prepare(greenfoot.Actor)
+numComments=3
